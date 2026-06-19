@@ -1,0 +1,23 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local editor settings
+.vscode/
+
+# Training data and generated model artifacts
+flower_images/
+*.keras
+*.h5
+*.tflite
+checkpoints/
+models/
+runs/
+logs/
