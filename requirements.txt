@@ -1,5 +1,13 @@
-tensorflow==2.10.0
+tensorflow==2.13.0
+absl-py
+h5py==3.9.0
+keras==2.13.1
+protobuf==3.20.3
+tensorboard==2.13.0
+tensorflow-estimator==2.13.0
 streamlit
 pillow
-numpy==1.26.4
+numpy==1.24.3
+pandas==2.2.2
 matplotlib
+huggingface_hub
