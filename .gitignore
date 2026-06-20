@@ -14,9 +14,6 @@ __pycache__/
 
 # Training data and generated model artifacts
 flower_images/
-*.keras
-*.h5
-*.tflite
 checkpoints/
 runs/
 logs/
