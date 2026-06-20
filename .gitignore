@@ -18,6 +18,5 @@ flower_images/
 *.h5
 *.tflite
 checkpoints/
-models/
 runs/
 logs/
